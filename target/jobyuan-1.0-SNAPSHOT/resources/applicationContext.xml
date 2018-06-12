@@ -66,4 +66,15 @@
     <!--注入 事务管理器  这个注解驱动 告诉 spring 注解驱动 具体上网搜索  -->
     <tx:annotation-driven  transaction-manager="transactionManager"/>
 
+    <!-- 配置三大组件之试图解析器 -->
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/WEB-INF/system/html/"></property>
+        <property name="suffix" value=".jsp"></property>
+    </bean>
+
+    <!-- 配置三大组件处理器映射器和处理器适配器 -->
+    <mvc:annotation-driven />
+
+    <!-- 当DispatcherServlet配置为/来拦截请求的时候，需要配置静态资源的访问映射 -->
+    <mvc:default-servlet-handler />
 </beans>
