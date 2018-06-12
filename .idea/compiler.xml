@@ -9,5 +9,8 @@
         <module name="jobyuan" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jobyuan" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
