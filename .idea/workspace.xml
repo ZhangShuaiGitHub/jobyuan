@@ -6,23 +6,26 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d8e2e6-2e78-41d2-9539-5832c1aa5ee9" name="Default" comment="">
+    <list default="true" id="97d8e2e6-2e78-41d2-9539-5832c1aa5ee9" name="Default" comment="second">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobAdminExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobInterview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobInterviewExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobLearningExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobNumberBind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobNumberBindExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobPersonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobReadingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobRealname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo/JobRealnameExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/system/html/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/system/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/system/html/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobyuan/controller/HelloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/controller/HelloTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jobyuan/servcie/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jobyuan/servcie/HelloService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jobyuan/controller/HelloTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jobyuan/controller/HelloTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jobyuan/servcie/HelloService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jobyuan/servcie/HelloService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT/WEB-INF/classes/com/jobyuan/controller/HelloTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT/WEB-INF/classes/com/jobyuan/controller/HelloTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT/WEB-INF/classes/com/jobyuan/servcie/HelloService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT/WEB-INF/classes/com/jobyuan/servcie/HelloService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/jobyuan-1.0-SNAPSHOT/resources/applicationContext.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,8 +79,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/system/html/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -117,7 +120,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/system/html" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -276,7 +279,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/jobyuan/pojo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/portal" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -444,16 +447,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528787858976</updated>
-      <workItem from="1528787864361" duration="11400000" />
+      <workItem from="1528787864361" duration="13130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11400000" />
+    <option name="totallyTimeSpent" value="13130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -497,6 +499,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-app_2_3.dtd">
@@ -658,8 +664,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/system/html/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
